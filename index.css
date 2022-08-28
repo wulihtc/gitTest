@@ -6,7 +6,11 @@ body{
 
 img{
     width: 20px;
-    height: 20px;
+    height: 30px;
+}
+
+h2{
+    font-family: 'Courier New', Courier, monospace;
 }
 
 ul{
