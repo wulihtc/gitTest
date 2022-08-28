@@ -7,3 +7,15 @@ body{
 ul{
     list-style: none;
 }
+
+li{
+    color: aliceblue;
+}
+
+p{
+    font-size: 18px;
+}
+
+div{
+    background-color: #fff;
+}
